@@ -1,0 +1,15 @@
+
+
+.pokedex-cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.winner{
+color: #4caf50;
+}
+
+.loser{
+color: rgb(230, 43, 43);
+}
